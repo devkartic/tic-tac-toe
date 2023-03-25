@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+/*
+ * Custom style
+ * Square style
+ */
+
+.square{
+  height: 100px;
+  width: 100px;
+  font-size: 30px !important;
+  font-weight: bold;
+}
